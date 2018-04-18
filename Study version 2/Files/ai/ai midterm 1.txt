@@ -1,0 +1,64 @@
+what is genetic algorithms?
+search-state nodes are meausred by a fitness function
+what are successors (genetic algorithms)?
+fittest nodes that are retained (beam search)
+what is population (genetic algorithms)?
+generated from random pair in frontier
+what is a new state from crossover?
+mixture of parent states
+what is intelligence?
+the ability to learn or understand or to deal with new or trying situations
+what is turning test?
+can a human tell that they are interaction with a computer?
+what is cognitive approach?
+model the thinking of humans or other animals
+what are laws of thought?
+set of logic rules drawback: difficult to model informal/general knowledge
+what is rational agent?
+logical inference is good, but not always applicable
+what is state?
+atomic represtation of world
+what are search problem components?
+initial state, actions, cost, transtition model, goal predicate
+what are actions?
+function returns set of possible decisions from given state
+what is cost?
+cost of each action
+what is transition model?
+function that return result of action applied to state
+what is goal predicate?
+new state member of goal set
+what is search architecture?
+node representations
+what are node representations?
+state,parent,action, and path-cost
+what is parent node?
+ancestor in tree
+what is action node?
+how you got to node from parent
+what is path-cost node?
+cost from current node to tree's root (usually g(n))
+how to implement frontier set?
+queue
+why use explored set?
+make states easily comparable
+how are explored sets ordered?
+hash/state in canoncial order
+what are the search complexity?
+ branch factor, depth, max length, time measurement, and total cost
+what is branch factor in complexity?
+max number of successors
+what is depth in complexity?
+the shallowest goal node
+what is the max length in complexity?
+state space path
+what is time measurement in complexity?
+number of nodes expand
+what is total cost in complexity?
+time or space complexity
+what is uninformed search (blind)?
+don't know if state is promising and strategies depend on node expansion order
+what are the different strategies that can change the expansion order for uninformed(blind) search ?
+breadth first, depth first, uniform cost, and variants
+what are variants?
+depth limited, iterative, bidirectional

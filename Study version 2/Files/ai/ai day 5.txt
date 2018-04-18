@@ -1,0 +1,26 @@
+What is a beam search?
+Only keep the k most successful children
+what is genertic algorithms search-state node measured?
+fitness function
+What is the successors for genetic algorithms?
+generated from random pair in frontier (population)
+How are random paris selected for genetic algorithms?
+p(node) = fitness(node) / sum of fitness(i)
+What is line search?
+double alpha repeatedly until objective function f starts to decrease. choose new direction.
+what is alpha when it is too small?
+learning slow
+what is alpha when it is too large?
+might overshoot extrema or gradient change.
+What is Newton-Raphson method?
+a + h = r
+what is a in Newton-Raphson method?
+the height of f(a)
+What is h in Newton-Raphson method?
+the width of f(a)
+what is b in Newton-Raphson method?
+the point it intercepts at the x axis
+What is r in Newton-Raphson method?
+the actual root.
+What is contingency plans?
+the result of an action such that it returns multiple possible states

@@ -1,0 +1,50 @@
+What is Semidynamic?
+Environment static, but performance is time dependent
+What is Dynamic state?
+Environment Constantly changing
+What is static state?
+Does not change while agent is deciding next action
+what is learning element?
+Uses knowledge from performance element to modify rules
+What is learning agents?
+Decision rules are adjusted based on performance over time.
+What is critic?
+Monitors the environment to see how the system is doing and keeps learning element from going off track
+What is problem generator?
+uses learning element's goals to suggest experiments
+What is softbot?
+A type of Intelligent Agents software only agent
+What is fully observable environment?
+The state of a system is known at all times, direct information.
+What is partially observable?
+The state of a system is not fully visible to an external sensor like indirect information and uncertain state.
+What is task environments?
+External environment of an organization which affects its ability to reach business goals.
+What is Multiagent issues?
+a computerized system using cooperative vs. competitive, communication, and randomization to prevent predictability to solve problems.
+What is  Deterministic?
+We know what the next state is.
+What is stochastic?
+nondeterministic factors may influence leading to an uncertain state.
+What is Turning test?
+can a human tell that they are interacting with a computer?
+What are the areas contributing to AI?
+philosophy, mathematics, psychology, neuroscience, linguistics, and computer science.
+What are Intelligent Agents?
+able to make decision and manipulate/affect the environment around it.
+What is percepts?
+Sensors provide perceptual input of environment.
+What is congnitive approach?
+Using the brain as a model like the logic of humans or other animals.
+What is laws of thought?
+A set of (rigget) logic rules, simple statement.
+What is rational agent?
+chooses to perform the action with the optimal expected outcome for iteself (infer logic).
+What is Intelligence?
+The ability to learn, deal with new/try new situation, reason, and manipulation.
+What is episodic?
+The next decision depends on state (current state).
+What is sequential?
+The next decision depends on previous ones (previous state).
+What is Utility theory?
+Decisions are made to maximize the expected utility, how useful or happy something makes the individual feels.

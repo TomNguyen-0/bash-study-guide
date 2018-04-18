@@ -1,0 +1,30 @@
+What is a state node?
+paths not usually retained. typically moved only to neightbors of state.
+What is "the good"?
+low memory usage. for large state spaces.
+what is "the bad"?
+lose advantages from search-tree retention (backtracking).
+What is "Find best state"?
+find extrema of objective function f(state).
+What is global extrema?
+global maximum.
+What is local maximum?
+local extrema.
+What is Hill-climbig search?
+greedy search.
+what are some problems for hill climbing?
+local extrema, ridges, plateaus.
+What is stochastic?
+assign probabilities related to steepness of choice and pick randomly (slow convergence)
+What is first-choice?
+generate sccessors randomly, pick the first one that's better than current state.
+What is random-restart?
+pick a new initial state if we don't find what we are looking for.
+what is annealing?
+process to harden metals. subject to high heat.
+What are the three annealing states?
+high energy state, slowly cool, allows molecules to realign (reducing stress)
+What is high temperature for annealing?
+more likely to pick risky decisions
+what is low temperature for annealing?
+more likely to pick good decisions.

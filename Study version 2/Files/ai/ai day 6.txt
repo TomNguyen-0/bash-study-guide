@@ -1,0 +1,26 @@
+What is a zero-sum game?
+what's good for you is bad for me
+What is turn-based?
+alternating
+What is pruning?
+removing portions of search tree.
+What are the parts for a game search problem?
+initial state, player, actions, result, terminal-test, utility
+What is a game tree?
+exploration of the game search space
+What is alpha-beta pruning?
+remove subtreees that can't influence the decision
+What is move-ordering?
+order affects pruning performance
+What is cutoff?
+don't evaluate all the way to terminal node
+What is alpha-beta pruning?
+When we are looking for the max value, if there is a value is lower then the current one. You can just throw the smaller child away.
+what is killer move heuristic?
+iterative deepening search to ply above. use heuristic value to order nodes.
+what is transposition table?
+stores heuristic of visited states. only store good states.
+What is endgames?
+reduced search space
+what is retrograde search?
+backwards minimax search backwards from terminal states

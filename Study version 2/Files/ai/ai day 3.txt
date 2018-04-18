@@ -1,0 +1,26 @@
+What is consistency for Heuristic/monotonicity?
+h(n) <= cost(n,action, n') + h(n').
+What is the n' in cost(n,action,n')?
+It is the estimated cost of h(n'), the next state.
+What is the n in cost (n,action,n')?
+It is the estimated cost of h(n), the current state.
+Every consisten huristic is (a propertie of Heuristic)?
+admissible.
+A* is guaranteed to be (for trees)?
+admissible.
+A* is guaranteed to be (for graphs)?
+consistent.
+What is A-Star search for cost incurred to n?
+g(n).
+What is A-star search for estimate to goal?
+h(n).
+What does it mean for h(n) to be consistent?
+nondecreasing values of f(n), guarantee best path to n, and final goal node found is optimal
+What is completeness?
+Holds when there are a finite number of nodes with f(n) < the optimal cost.
+What do we set the cost of h(n) for depth first search to?
+zero
+What is the sum of manhattant distance?
+move the piece as if there was nothing in the way.
+What is admissible?
+There is only one(unique) solution.

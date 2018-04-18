@@ -1,0 +1,16 @@
+what is unsupervised learning with discrete predictions?
+no given solutions with guess (binary)
+what is supervised learning with continuous predictions?
+given solutions with infinite answers
+What is regression based model?
+continuous predictions
+what is classification based model?
+discrete predictions
+What does dataset include?
+training data, validation data, and testing data
+What is training data?
+used to fit the parameters of the model
+What is validation data?
+provides an unbiased evaluation of a model fit on the training dataset while tuning the model's hyperparameters.
+What is testing data?
+a dataset that is independent of the training dataset, but that follows the same probability distribution as the training dataset.

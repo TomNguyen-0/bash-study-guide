@@ -1,0 +1,70 @@
+What is state?
+Atomic representatoin of world
+What is goal formulation?
+a set of states that represents objectives that we want to meet.
+What is problem formulation?
+The decision action and states to reach a goal.
+What is assume environment?
+Deterministic actions, observable, and discrete (finite # of actions).
+What is a search process?
+A set of states & actions to reach a goal state and returns a plan.
+What is a component of a search problem?
+Initial state, actions, cost, transition model, and goal predicate.
+What is an initial state?
+The starting state.
+What are actions?
+Function that returns set of possible decisions from a given state.
+What is cost?
+The sum of its step or path.
+What is transition model?
+Function that reports the result of an action applied to a state.
+What is a goal predicate?
+Is the new state a member of the goal set?
+What is a solution?
+Any path that reaches a goal.
+What is optimal solution?
+The lowest cost path.
+What is a complete-state?
+The solution state.
+What is an incrementally state?
+Adding one unit at a time.
+What are the classic real-world problems?
+Route-finding, touring, and traveling salesperson.
+What is route-finding problem?
+transportation, netowrks, and operations planning.
+What is touring problem?
+Visit a set of states greater or equal to 1 time.
+What is traveling salesperson?
+visit a set of state 1 time.
+What is a frontier in a search tree?
+A set consists of leaf nodes.
+What is redundant?
+cycles in the search tree (loops) are a special case.
+How is a frontier set usually implemented?
+as a queue.
+What is FIFO?
+a traditional queue.
+What is LIFO?
+a stack.
+What is a explored set?
+track states that have been investigated.
+What is uniformed (blind) search?
+No awareness of whether or not a state is promising.
+What is Breadth-first search?
+best path if cost is a nondecreasing f(depth).
+What is search cost?
+time complexity
+What is total cost?
+time and space complexity
+What is space complexity?
+Every generated node remains in memory, in explored and in frontier.
+What is uniform-cost search?
+Nodes are expanded in order of optimal cost (cmplexity function of minimum cost for all actions).
+What is Depth-first search?
+deepest node is expanded first.
+What is iterative deepening?
+prevents infinite loops of depth-first search.
+What is informed/heuristic search?
+can we guess the cost to a goal based on the current state?
+What is A-star search?
+the estimated cost form start to goal through state n.

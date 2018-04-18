@@ -1,0 +1,46 @@
+Who made the business model canvas (BMC) template?
+Alexander Osterwalder.
+What are the components of the business model canvas?
+value proposition, customer segments, customer relationship, channels, revenue, key activities, key resources, key partners, and cost structure.
+What is value proposition (BMC)?
+explain how your product or service can benefit the customer segments.
+What is customer segments (BMC)?
+whom the startup or company hopes to sell their products or services to.
+What is customer relationship (BMC)?
+The approach you intend to adopt to attract and retain your customers, and explain how it fits with customers expectations.
+What is channels (BMC)?
+How you plan to deliver value to different customer segments.
+What is revenue (BMC)?
+How customers are likely to pay for all the value that you are creating.
+What is key activities (BMC)?
+A must perform to create and deliver value to your customers.
+What is key resources (BMC)?
+describes the valuable resources that is needed in order to perform your key activities and venture's operations.
+What is key partners (BMC)?
+describes the people you need to perform the activities needed to create value.
+What is cost structure (BMC)?
+the significant bills that you would incure to create value.
+What is a business models?
+bridges idea and action, answers the question of why a venture will be viable and valuable,and relate to business straegy as logic relates to the algorithm.
+When does business Model fail?
+flawed lgoic, limited strategic choices, imperfect value creation and capture assumptions.
+What are the three things you need to keep in mind when making a business?
+Desirability, Feasibility, and Viability.
+What are the three stages of a lean startup?
+customer discovery, customer validation, and customer creation.
+What is customer discovery (lean startup)?
+problem/solution fit
+what is customer validation (lean startup)?
+product/market fit
+what is customer creation (lean startup)?
+scale
+What is the three stages of a bootstrap?
+ideation, valley of death, and growth
+What is ideation (bootstrap)?
+demo
+What is valley of death (bootstrap)?
+sell
+what is growth (bootstrap)?
+build
+What is learn model approach?
+ideas, build, product, measure, data, and learn.

@@ -1,0 +1,22 @@
+Input out put can be done in three ways?
+busy waiting, interrupt, direct memory access
+what is interrupt vector?
+the device number may be used as an index into part of memory to find the address of the interrupt handler
+what is pseudoparallelism?
+the illusion of parallelism
+what is multiprocessor?
+two or more CPU sharing the same physical memory
+what is sequential processes?
+processses for short or an executing program
+what is multiprogramming?
+rapid switching back and forth between programs.
+what are the four principal events for processes creations?
+system initialization, execution of a process creation system called by a running process, a user request to create a new process, and initiation of a batch job.
+what are deamons?
+processes that stay in the background to handle activities.
+what are the four process terminations?
+normal exit, error exit, fatal error, and killed by anoter process
+what is process group?
+a process and all its descendants
+what is init?
+this is the root of the whole system.

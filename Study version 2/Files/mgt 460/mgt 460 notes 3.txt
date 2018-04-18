@@ -1,0 +1,34 @@
+What is smoke tests?
+landing page with "dummy" purchase button (without price).
+What is concierge model?
+job website, rental marketplace.
+What is aardvark?
+gave impression that an algorithm was finding the answer through social media.
+What is Dry wallet tests?
+buy buttons with different prices.
+What is A/B Testing?
+comparing two versions of a web page to see which one performs better.
+What is Macro-environment?
+The broad environmental context in which a firm's industry is situated
+What are the components of a company's macro-environment?
+general economic conditions, demographics, the natural environment, political/regulatory/legal factors, technological factors, global forces, and social forces.
+What are the components of immediate industry and competivitive environment?
+suppliers, substitute products, rival firms, new entrants, and buyers.
+What are Demographics?
+the size, growth rate, and age distribution of diferent sectors of the population.
+What are social forces?
+societal values, attitudes, cultural factors, and lifestules that impact businesses.
+What are political, legal, and regulatory factors?
+policies and processes, laws with which companies must comply-labor laws, antitrust laws, tax policy, political clime, and the strength of institutions such as the court system.
+What is natural environment?
+Ecological and environmental forces such as weather, climate, climate change, and associated factors like water shortages.
+What are technological factors?
+The pace of change and developments that have the potential for wide-ranging effects on society, such as genetic engineering, the rise of the internet, changes in communication techonologies, and knowledge and controlling the use of technology.
+What are global forces?
+conditions and changes in world markets, including political events and policies toward international trade, sociocultural practices and the institutional environment in which the world markets operate.
+What are general economic conditions?
+rates of growth, unemployment, inflation, interest, trade deficits or surpluses, savings, per capita domestic product, and conditions in the markets for stocks and bonds affecting consumer confidence and discretionary income.
+What are types of porter's forces model?
+industry analysis, external analysis, and five forces model/analysis
+What are the five forces model of competition?
+suppilers, potential new entrants, buyers, other industries offering substitute products, and rivalry among competing sellers.
